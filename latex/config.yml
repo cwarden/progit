@@ -1,5 +1,5 @@
 default:
-  font: Helvetica
+  font: Liberation Sans
   bold: "{* Bold}"
   mono: Andale Mono
   prechap: "Chapter "
